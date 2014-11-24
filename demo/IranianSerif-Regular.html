@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html dir="rtl">
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	
+	<title>	تست فونت	</title>
+	<script type="text/javascript" src="jquery-1.10.2.js"></script>
+<script type="text/javascript">
+
+$text = 'یکی از مشکلاتی که در وب فارسی با آن مواجه هستیم، محدودیت فونت است. متاسفانه در وب فارسی ما محدود به سه فونت هستیم که بر روی تمامی سیستم ها نصب شده است. فونت arial, Tahoma و mono-type تنها فونتهایی هستند که می‌توانیم از آنها استفاده کنیم در حالی که برای زبان انگلیسی حداقل نزدیک به 10 فونت در دسترس است. 1234567890 ()",.،؛,';
+
+$(document).ready(function(){
+	
+	var pp = $('#container');
+	for(i=6;i<=120;i++) {
+		  var $out = '<span>'+i+'px</span>'+$text;
+		 var box = $('<div/>').html($out).addClass('boxText').css('fontSize',i);
+		pp.append(box);
+		//i = i+2;
+	}	
+});
+
+</script>
+	
+<style type="text/css" media="all">
+
+
+
+
+
+	@font-face {
+	    font-family: 'wwww';
+	     src: url('IranianSerifWeb-Regular.woff') format('woff');
+	
+	}
+
+
+
+
+
+	body{
+		background-color: #F2F2F2;
+	}
+	#container{
+		display: block;
+		width: 80%;
+		margin: 50px auto;
+	}
+	.boxText{
+		padding: 50px 10px;
+		line-height: 1.5rm;
+		font-family: 'wwww' ,cursive;
+		text-align: justify;
+		border-bottom: 1px solid #777;
+		border-top: 1px solid #ccc;
+	}
+	.boxText span {
+		display: inline;
+		padding: 5px 10px;
+		border-radius:10px;
+		margin-left: 50px;
+font-family:Tahoma;
+		background: red;
+		color: #fff;
+	}
+
+</style>
+</head>
+<body>
+	<div id="container"></div>
+</body>
+</html>

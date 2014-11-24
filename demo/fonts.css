@@ -1,0 +1,23 @@
+	@font-face {
+	    font-family: 'WIranianSens';
+	    src: url('IranianSansWeb-Bold.woff') format('woff');
+	    font-weight: 400;
+	    font-style: normal;
+	
+	}
+
+	@font-face {
+	    font-family: 'WIranianSens';
+	    src: url('IranianSansWeb-Bold.woff') format('woff');
+	    font-weight: 700;
+	    font-style: normal;
+	
+	}
+
+	@font-face {
+	    font-family: 'WIranianSerif';
+	    src: url('IranianSerifWeb-Regular.woff') format('woff');
+	    font-weight: 400;
+	    font-style: normal;
+	
+	}
