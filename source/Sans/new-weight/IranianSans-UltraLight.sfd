@@ -1,0 +1,76 @@
+SplineFontDB: 3.0
+FontName: IranianSans-ExtraLight
+FullName: Iranian Sans ExtraLight
+FamilyName: Iranian Sans 
+Weight: ExtraLight
+Copyright: this is spcial version  for use in font-store.ir
+Version: 5.0.0 build 1/7/1393
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 100
+Ascent: 1556
+Descent: 492
+InvalidEm: 0
+sfntRevision: 0x00010000
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 107 -802105209 1359]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1159092060
+ModificationTime: 1415483278
+PfmFamily: 81
+TTFWeight: 200
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 2 0 5 3 0 0 0 0 0 0
+OS2TypoAscent: 1556
+OS2TypoAOffset: 0
+OS2TypoDescent: -492
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 1901
+OS2WinAOffset: 0
+OS2WinDescent: 483
+OS2WinDOffset: 0
+HheadAscent: 1901
+HheadAOffset: 0
+HheadDescent: -483
+HheadDOffset: 0
+OS2SubXSize: 1331
+OS2SubYSize: 1433
+OS2SubXOff: -212
+OS2SubYOff: 286
+OS2SupXSize: 1331
+OS2SupYSize: 1433
+OS2SupXOff: 730
+OS2SupYOff: 983
+OS2StrikeYSize: 102
+OS2StrikeYPos: 530
+OS2CapHeight: 0
+OS2XHeight: 0
+OS2Vendor: 'RITA'
+OS2CodePages: 00000040.20080000
+OS2UnicodeRanges: 80002003.80002042.00000008.00000000
+Lookup: 4 1 0 "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0" { "'ccmp' Glyph Composition/Decomposition in Arabic lookup 0 subtable"  } ['ccmp' ('arab' <'ARA ' 'dflt' > ) ]
+Lookup: 4 0 0 "'ccmp' Glyph Composition/Decomposition in Arabic lookup 8" { "'ccmp' Glyph Composition/Decomposition in Arabic lookup 8 subtable"  } ['ccmp' ('arab' <'ARA ' 'dflt' > ) ]
+Lookup: 1 1 0 "'isol' Isolated Forms in Arabic lookup 6" { "'isol' Isolated Forms in Arabic lookup 6 subtable"  } ['isol' ('arab' <'ARA ' 'dflt' > ) ]
+Lookup: 1 9 0 "'fina' Terminal Forms in Arabic lookup 5" { "'fina' Terminal Forms in Arabic lookup 5 subtable"  } ['fina' ('arab' <'ARA ' 'dflt' > ) ]
+Lookup: 1 9 0 "'medi' Medial Forms in Arabic lookup 4" { "'medi' Medial Forms in Arabic lookup 4 subtable"  } ['medi' ('arab' <'ARA ' 'dflt' > ) ]
+Lookup: 1 9 0 "'init' Initial Forms in Arabic lookup 3" { "'init' Initial Forms in Arabic lookup 3 subtable"  } ['init' ('arab' <'ARA ' 'dflt' > ) ]
+Lookup: 4 9 1 "'rlig' Required Ligatures in Arabic lookup 2" { "'rlig' Required Ligatures in Arabic lookup 2 subtable"  } ['rlig' ('arab' <'ARA ' 'dflt' > ) ]
+Lookup: 4 1 1 "'rlig' Required Ligatures in Arabic lookup 1" { "'rlig' Required Ligatures in Arabic lookup 1 subtable"  } ['rlig' ('arab' <'dflt' > ) ]
+Lookup: 1 9 0 "'calt' Contextual Alternates in Arabic lookup 9" { "'calt' Contextual Alternates in Arabic lookup 9 subtable"  } ['calt' ('arab' <'ARA ' 'dflt' > ) ]
+Lookup: 1 0 0 "'calt' Contextual Alternates in Arabic lookup 10" { "'calt' Contextual Alternates in Arabic lookup 10 subtable"  } ['calt' ('arab' <'ARA ' > ) ]
+Lookup: 4 9 1 "'liga' Standard Ligatures in Arabic lookup 7" { "'liga' Standard Ligatures in Arabic lookup 7 subtable"  } ['liga' ('arab' <'ARA ' 'dflt' > ) ]
+Lookup: 258 9 0 "'kern' Horizontal Kerning in Arabic lookup 0" { "'kern' Horizontal Kerning in Arabic lookup 0 subtable"  } ['kern' ('arab' <'ARA ' 'dflt' > ) ]
+Lookup: 260 1 0 "'mark' Mark Positioning in Arabic lookup 1" { "'mark' Mark Positioning in Arabic lookup 1 subtable"  } ['mark' ('arab' <'ARA ' 'dflt' > ) ]
+Lookup: 261 1 0 "'mark' Mark Positioning in Arabic lookup 2" { "'mark' Mark Positioning in Arabic lookup 2 subtable"  } ['mark' ('arab' <'ARA ' 'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning in Arabic lookup 3" { "'mark' Mark Positioning in Arabic lookup 3 subtable"  } ['mark' ('arab' <'ARA ' 'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "" "" "" "" "5.0.0 build 1/7/1393" "" "Iranian Sans is a service mark of Font-Store.ir for use in Free and Open Source Software." "http://font-store.ir" "Hooman Mehr, Hadi Navid in Neviseh Pardaz Co. Ltd. (http://nevisa.com)" "rebuild by Mohammad Saleh Souzanchi | soozanchi.ir" "http://font-store.ir" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+
