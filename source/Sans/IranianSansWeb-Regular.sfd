@@ -26,7 +26,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1159092060
-ModificationTime: 1454085195
+ModificationTime: 1454096093
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -83,7 +83,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 8 2
+WinInfo: 208 8 2
 BeginPrivate: 6
 BlueScale 8 0.029625
 BlueShift 1 5
@@ -9992,7 +9992,7 @@ StartChar: the.init
 Encoding: 65179 65179 216
 Width: 293
 GlyphClass: 2
-Flags: W
+Flags: HW
 AnchorPoint: "Anchor-1" 125 -87 basechar 0
 AnchorPoint: "Anchor-0" 69 615 basechar 0
 LayerCount: 2
@@ -10014,16 +10014,13 @@ SplineSet
  148 656 l 1
  148 572 l 1
 184 315 m 1
- 209 238 221 181 221 141 c 0
- 221 101 203 69 168 41 c 0
- 133 13 89 0 34 0 c 2
+ 209.558558111 236.279641019 221.031358215 180.738877142 221.031358215 137.632044125 c 0
+ 221.031358215 32.3125376888 128.005263012 -9.47505962579e-015 34 0 c 2
  0 0 l 2
  -10 0 -20 3 -30 6 c 1
  -30 80 l 1
  34 80 l 2
- 70 80 96 85 112 94 c 0
- 128 103 140 110 146 117 c 0
- 152 124 155 131 155 139 c 0
+ 89 80 155 96 155 139 c 0
  155 171 142 228 117 309 c 1
  184 315 l 1
 EndSplineSet
