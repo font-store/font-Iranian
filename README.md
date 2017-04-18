@@ -19,12 +19,12 @@ src="../images/OFL_logo_rect_color.png"/></a>
 <!--/SIL Open Font License-->
 
 
-#این فونت هنوز در حال تکمیل شدند و اصلاح می باشد ومشکلات  زیادی دارد.
+# این فونت هنوز در حال تکمیل شدند و اصلاح می باشد ومشکلات  زیادی دارد.
 به زودی نسخه های بروز شده به همراه چند وزن جدید آن با تمامی اطلاعات   در مورد طراحان و .... منتشر خواهد شد.
 
 
 
-###demo:
+### demo:
 IranianSans-regular(http://font-store.github.io/font-Iranian/demo/IranianSans-Regular.html)
 
 IranianSans-regular(http://font-store.github.io/font-Iranian/demo/IranianSans-bold.html)
